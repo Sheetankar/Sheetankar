@@ -1,15 +1,17 @@
 Sheetankar/README.md
 Hello, I'm Sheetankar <br>
-
-I am a web developer who has a specialization in creating user interfaces for applications and websites. Welcome to my GitHub profile!<br>
+<hr>
+I am a web developer specializing in creating user interfaces for applications and websites. Welcome to my GitHub profile!<br>
 
 🚀 Skills<br>
-Languages: HTML, CSS, JavaScript
-Frameworks: React.js
-Databases: MongoDB
-Tools: Git, VS Code
-
 <hr>
+
+Languages: HTML, CSS, JavaScript<br>
+Frameworks: React.js<br>
+Databases: MongoDB<br>
+Tools: Git, Figma, VS Code<br>
+
+
 
 🔧 Technologies & Tools
 <hr>
@@ -20,10 +22,10 @@ HTML5 CSS3 Sass JavaScript React TypeScript Next Js npm Node.js Express.js MySql
 <hr>
 
 Backend Development
-<hr>
+
 📂 My Projects
 <hr>
 📫 Let's Connect!
-
+<hr>
 LinkedIn: Sheetankar-pathak
 Feel free to explore my projects and reach out. Happy coding! 🚀
